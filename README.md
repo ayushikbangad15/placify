@@ -1,2 +1,0 @@
-# placify
-Your placement simplified
